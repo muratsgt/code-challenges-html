@@ -1,0 +1,17 @@
+.box{
+    font-size: 1em;
+    border: 3px solid blue;
+    padding: 25px 15px;
+    width: 600px;
+    max-width: 90%;
+    margin: auto;
+}
+
+td{
+    padding: 2%;
+}
+
+#imag{
+    width: 400px;
+    max-width: 100%;
+}
